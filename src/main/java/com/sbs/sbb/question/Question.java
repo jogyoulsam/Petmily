@@ -1,6 +1,7 @@
 package com.sbs.sbb.question;
 
 import com.sbs.sbb.answer.Answer;
+import com.sbs.sbb.comment.Comment;
 import com.sbs.sbb.user.SiteUser;
 import jakarta.persistence.*;
 import lombok.Getter;
